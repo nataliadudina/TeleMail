@@ -17,6 +17,7 @@ requests = "^2.32.3"
 
 [tool.poetry.group.dev.dependencies]
 python-dotenv = "^1.0.1"
+coverage = "^7.6.10"
 
 
 [tool.poetry.group.lint.dependencies]
